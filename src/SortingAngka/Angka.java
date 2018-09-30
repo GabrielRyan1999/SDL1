@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Sorting;
+package SortingAngka;
 
 import java.util.Arrays;
 
@@ -11,7 +11,7 @@ import java.util.Arrays;
  *
  * @author basisb20
  */
-public class Sorting_data {
+public class Angka {
 
     public static void main(String[] args) {
 

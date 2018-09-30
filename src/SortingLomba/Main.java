@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Sorting_lombaRenang;
+package SortingLomba;
 
 /**
  *
  * @author basisb20
  */
-public class MainAtletRenang {
+public class Main {
 
     public static void main(String[] args) {
         Perenang[] DaftarPerenang = new Perenang[8];
